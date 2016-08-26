@@ -1,0 +1,14 @@
+name: Soles de Miel
+layout_spectrum: 0.640703386569206
+typography_spectrum: 0.8916956343189651
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.367650380684144
+  lightness: 0.9468261200033863
+  saturation: 0.6255303293404991
+  rhythmicContrast: 0.6987323230312946
