@@ -2,7 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-26T05:05:49.665Z'
+datePublished: '2016-08-31T18:52:41.978Z'
+dateModified: '2016-08-31T18:52:38.631Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,7 +22,6 @@ description: >-
   un bebé, aprende a amar. Queda seducido, sin palabras, balbucea y dice su
   primera palabra: mi amor.
 via: {}
-datePublished: '2016-08-26T05:05:53.373Z'
 starred: false
 sourcePath: _posts/2016-08-26-yo-yo-solia-ir-por-el-mundo-errante-escapaba-entre-las-gr.md
 _type: Blurb
